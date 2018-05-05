@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">UserProfile</string>
+
+    <!-- profile name -->
+    <string name="name"><xliff:g id="name" example="Amy">AJ</xliff:g></string>
+
+    <!-- birthday -->
+    <string name="birthday"><xliff:g id="birthday" example="January 1, 1979">February 16, 1981</xliff:g></string>
+
+    <!-- country -->
+    <string name="country"><xliff:g id="country" example="Japan">United States</xliff:g></string>
+
+</resources>

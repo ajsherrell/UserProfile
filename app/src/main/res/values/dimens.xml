@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- height of profile image -->
+    <dimen name="imageHeight">400dp</dimen>
+
+    <!-- width of profile image -->
+    <dimen name="imageWidth">300dp</dimen>
+
+    <!--top padding-->
+    <dimen name="topPadding">20dp</dimen>
+
+    <!--left padding-->
+    <dimen name="leftPadding">16dp</dimen>
+
+    <!--bottom padding-->
+    <dimen name="bottomPadding">20dp</dimen>
+
+</resources>
